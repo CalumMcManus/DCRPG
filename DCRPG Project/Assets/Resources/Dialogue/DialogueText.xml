@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dialogue>
+	<NPCType Type = 'OldMan'>
+    <DialogueType Type = 'Greeting'>
+		  <Text id = '1' Desc = 'Passive1'>
+        Greetings Traveller
+		  </Text>
+		  <Text id = '2' Desc = 'Passive2'>
+        Who is that?
+		  </Text>
+    </DialogueType>
+    <DialogueType Type = 'Farewell'>
+      <Text id = '1' Desc = 'Passive1'>
+        Goodbye
+      </Text>
+      <Text id = '2' Desc = 'Passive2'>
+        Farewell traveller
+      </Text>
+    </DialogueType>
+	</NPCType>
+
+	
+	<!--To ADD: young man/woman, boy/girl, guard-->
+</Dialogue>

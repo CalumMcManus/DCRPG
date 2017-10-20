@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dialogue>
+	<NPCType Type = 'Bruce'>
+		<DialogueType Type = 'Conversation'>
+			<Convo id = '1'>
+				<Text id = '1' Desc = 'Reply'>
+					Hello Traveller
+				</Text>
+				<Text id = '2' Desc = 'Reply'>
+					Hello
+				</Text>
+				<Text id = '3' Desc = 'Reply'>
+					Have you been to the tavern?
+				</Text>
+			</Convo>
+			<Convo id = '2'>
+				<Text id = '1' Desc = 'Reply'>
+					What can I do ye for?
+				</Text>
+				<Text id = '2' Desc = 'Reply'>
+					A pint of mead and a sidequest
+				</Text>
+				<Text id = '2' Desc = 'Reply'>
+					Yer a funny one, I'll give you that
+				</Text>
+				<Text id = '3' Desc = 'Reply'>
+					No give me mead and a sidequest
+				</Text>
+			</Convo>
+		</DialogueType>
+	</NPCType>
+
+	
+	<!--To ADD: young man/woman, boy/girl, guard-->
+</Dialogue>

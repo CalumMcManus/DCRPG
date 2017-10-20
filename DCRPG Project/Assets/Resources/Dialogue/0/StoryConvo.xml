@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dialogue>
+	<NPCType Type = 'Bruce'>
+		<DialogueType Type = 'Conversation'>
+			<Convo id = '1'>
+				<Text id = '1' Desc = 'Reply'>
+					Howdy
+				</Text>
+				<Text id = '2' Desc = 'Reply'>
+					Uh, where am I?
+				</Text>
+				<Text id = '3' Desc = 'Reply'>
+					Snake climb tree, tree climb world...
+				</Text>
+			</Convo>
+			<Convo id = '2'>
+				<Text id = '1' Desc = 'Reply'>
+					What can I do ye for?
+				</Text>
+				<Text id = '2' Desc = 'Choice'>
+					Where's the market?
+				</Text>
+				<Text id = '2' Desc = 'Choice'>
+					Where's the tavern?
+				</Text>
+				<Text id = '3' Desc = 'Reply'>
+					I've marked it on your map
+				</Text>
+			</Convo>
+		</DialogueType>
+	</NPCType>
+
+	
+	<!--To ADD: young man/woman, boy/girl, guard-->
+</Dialogue>

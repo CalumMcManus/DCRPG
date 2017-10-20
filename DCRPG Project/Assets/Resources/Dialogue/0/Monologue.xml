@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dialogue>
+	<NPCType Type = 'Player'>
+		<DialogueType Type = 'Observation'>
+			<Text id = '1' Desc = 'Passive1'>
+				That's a big rock
+			</Text>
+			<Text id = '2' Desc = 'Passive2'>
+				It's getting Dark
+			</Text>
+		</DialogueType>
+		<DialogueType Type = 'Instruction'>
+			<Text id = '1' Desc = 'Passive1'>
+				I should check my journal
+			</Text>
+			<Text id = '2' Desc = 'Passive2'>
+				I just need one more!
+			</Text>
+		</DialogueType>
+	</NPCType>
+
+	
+	<!--To ADD: young man/woman, boy/girl, guard-->
+</Dialogue>
